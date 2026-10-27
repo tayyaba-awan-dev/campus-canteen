@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "name": "Chicken Biryani",
+    "description": "Fragrant basmati rice layered with spiced chicken, served with raita.",
+    "price": 350,
+    "category": "Rice",
+    "image": "https://placehold.co/600x400/0F4C5C/ffffff?text=Chicken+Biryani",
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "Chicken Karahi",
+    "description": "Tomato-ginger karahi cooked on high heat, served with one naan.",
+    "price": 450,
+    "category": "Main Course",
+    "image": "https://placehold.co/600x400/C8362B/ffffff?text=Chicken+Karahi",
+    "available": true
+  },
+  {
+    "id": 3,
+    "name": "Chana Chaat",
+    "description": "Chickpeas tossed with onion, tomato, chutney and fresh coriander.",
+    "price": 150,
+    "category": "Snacks",
+    "image": "https://placehold.co/600x400/B7791F/ffffff?text=Chana+Chaat",
+    "available": true
+  },
+  {
+    "id": 4,
+    "name": "Samosa Chaat",
+    "description": "Crushed samosas topped with yogurt, chutney and chickpeas.",
+    "price": 120,
+    "category": "Snacks",
+    "image": "https://placehold.co/600x400/B7791F/ffffff?text=Samosa+Chaat",
+    "available": true
+  },
+  {
+    "id": 5,
+    "name": "Aloo Paratha",
+    "description": "Crisp stuffed paratha with butter, served with achar.",
+    "price": 160,
+    "category": "Breakfast",
+    "image": "https://placehold.co/600x400/8A5A00/ffffff?text=Aloo+Paratha",
+    "available": true
+  },
+  {
+    "id": 6,
+    "name": "Halwa Puri Plate",
+    "description": "Two puris with suji halwa, chana and achar. A Sunday classic.",
+    "price": 220,
+    "category": "Breakfast",
+    "image": "https://placehold.co/600x400/8A5A00/ffffff?text=Halwa+Puri+Plate",
+    "available": true
+  },
+  {
+    "id": 7,
+    "name": "Zinger Burger",
+    "description": "Crispy chicken fillet, mayo and lettuce in a toasted bun.",
+    "price": 380,
+    "category": "Fast Food",
+    "image": "https://placehold.co/600x400/C8362B/ffffff?text=Zinger+Burger",
+    "available": true
+  },
+  {
+    "id": 8,
+    "name": "Chicken Shawarma",
+    "description": "Grilled chicken, garlic sauce and pickles wrapped in warm pita.",
+    "price": 250,
+    "category": "Fast Food",
+    "image": "https://placehold.co/600x400/C8362B/ffffff?text=Chicken+Shawarma",
+    "available": true
+  },
+  {
+    "id": 9,
+    "name": "Seekh Kabab Roll",
+    "description": "Beef seekh kabab, onions and mint chutney in a paratha roll.",
+    "price": 280,
+    "category": "Fast Food",
+    "image": "https://placehold.co/600x400/C8362B/ffffff?text=Seekh+Kabab+Roll",
+    "available": false
+  },
+  {
+    "id": 10,
+    "name": "Daal Chawal",
+    "description": "Home-style yellow daal with steamed rice and a tarka on top.",
+    "price": 200,
+    "category": "Rice",
+    "image": "https://placehold.co/600x400/0F4C5C/ffffff?text=Daal+Chawal",
+    "available": true
+  },
+  {
+    "id": 11,
+    "name": "Doodh Patti Chai",
+    "description": "Strong, creamy tea brewed with milk, the campus favourite.",
+    "price": 80,
+    "category": "Drinks",
+    "image": "https://placehold.co/600x400/5B3A29/ffffff?text=Doodh+Patti+Chai",
+    "available": true
+  },
+  {
+    "id": 12,
+    "name": "Mango Lassi",
+    "description": "Chilled yogurt drink blended with ripe mango.",
+    "price": 180,
+    "category": "Drinks",
+    "image": "https://placehold.co/600x400/5B3A29/ffffff?text=Mango+Lassi",
+    "available": true
+  },
+  {
+    "id": 13,
+    "name": "Kheer",
+    "description": "Slow-cooked rice pudding with cardamom and pistachios.",
+    "price": 140,
+    "category": "Desserts",
+    "image": "https://placehold.co/600x400/6B4C9A/ffffff?text=Kheer",
+    "available": false
+  },
+  {
+    "id": 14,
+    "name": "Gulab Jamun (2 pcs)",
+    "description": "Soft milk dumplings soaked in rose-scented sugar syrup.",
+    "price": 130,
+    "category": "Desserts",
+    "image": "https://placehold.co/600x400/6B4C9A/ffffff?text=Gulab+Jamun+(2+pcs)",
+    "available": true
+  }
+]
